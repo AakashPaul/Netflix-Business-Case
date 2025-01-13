@@ -1,6 +1,7 @@
 Business Case: Netflix - Data Exploration and Visualisation
 
- 
+![image](https://github.com/user-attachments/assets/ae08c3af-fe50-46d0-bcab-c4f906ce2455)
+
 Introduction
 As one of the leading media and video streaming platforms globally, Netflix has revolutionized how audiences consume entertainment. With a vast library of over 10,000 movies and TV shows and a subscriber base exceeding 22 million as of mid-2021, Netflix continually seeks innovative ways to enhance viewer engagement and optimize its content offerings. This case study aims to analyse the Netflix dataset to uncover valuable insights that can inform strategic decisions regarding content production. By understanding viewer preferences and trends in various markets, Netflix can identify which types of shows and movies resonate most with audiences, ultimately facilitating targeted growth strategies in different countries. Through this analysis, we aim to provide actionable recommendations that could support Netflix in its mission to deliver compelling content while maximizing subscriber satisfaction and retention.
 
